@@ -33,7 +33,7 @@ Nossa estrutura lista será utilizada para desenvolver um sistema de controle de
  - Relatórios para verificar o status da lista, mostrando a quantidade de produtos, produtos com estoque baixo, produtos ordenados por valor, por quantidade, por nome, etc...
  - Uma funcionalidade única e exclusiva, definida por você
 
-Você deverá desenvolver um programa, de forma modular, implemntando primeiro toda as funções do programa e realizando testes unitários para cada função. Depois de todas as funções desenvolvidas e testadas, você deverá criar um programa principal para chamar as funções.
+Você deverá desenvolver um programa, de forma modular, implementando primeiro toda as funções do programa e realizando testes unitários para cada função. Depois de todas as funções desenvolvidas e testadas, você deverá criar um programa principal para chamar as funções.
 
 Você deverá implementar as funções nesta ordem:
  1. Método para criar uma lista
