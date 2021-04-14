@@ -1,6 +1,6 @@
 # Atividade Prática de Lista Encadeada
 
-O objetivo desta atividade é desenvolver, de forma modular, as funcionalidades de uma lista encadeada. Consedere as seguintes estruturas para definição da lista:
+O objetivo desta atividade é desenvolver, de forma modular, as funcionalidades de uma lista encadeada. Considere as seguintes estruturas para definição da lista:
 
 ```c
 // DEFINICAO DO TIPO PRODUTO
